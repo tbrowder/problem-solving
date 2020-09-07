@@ -56,8 +56,8 @@ covered in the document, additional requirements, etc).
 ## Submitting a solution
 
 PRs can only be submitted once all previous stages are completed. PRs
-should be submitted in `Raku/problem-solving` repository. The
-document in the PR should act as a documentation for the solution (as
+should be submitted in the `Raku/problem-solving` repository. The
+document in the PR should act as documentation for the solution (as
 it will also be read later after it is accepted). This time all
 details should be provided. Keep your document consistent with other
 files in the repository (naming, directory structure, markup and so
@@ -85,7 +85,7 @@ next step.
 ## Acceptance
 
 A review is requested from all of the reviewers (see
-[the list](#reviewers)). This step exists to ensure peer-review and to
+[the list](#reviewers)). This step exists to ensure peer review and to
 notify the devs of the major upcoming changes. By approving a PR the
 dev confirms that they reviewed and understood the proposal, and that
 they are OK with it. This is also the last chance to express concerns
@@ -99,7 +99,7 @@ that the discussion doesn't lead to mutual understanding, the BDFL may
 step in.
 
 This is the final step. Once the PR is merged, it is expected that
-corresponding efforts (e.g. PRs in other repos) are merged too, and
+corresponding efforts (e.g., PRs in other repos) are merged too, and
 the future work is already outlined. This is the last step.
 
 
@@ -109,7 +109,7 @@ the future work is already outlined. This is the last step.
 * If any of the merged solutions needs an adjustment, the process should
   start from the beginning. That is, an issue should be filed stating
   the problem with the current solution, and the process continues as
-  normal. PRs are allowed to change, modify and shadow existing
+  normal. PRs are allowed to change, modify, and shadow existing
   solutions.
 * Assignees are allowed to call for a “shortcut” to any problem, in
   which case the solution is applied directly without going through
